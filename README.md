@@ -8,8 +8,8 @@ AniMem is an innovative and feature-rich anime application designed to provide a
 
 ##
 
-<img src="https://github.com/CippoX/AniMem-Demo/assets/62521219/d7b7bdb3-e4d9-43f8-a203-f781ac318b71" alt="IMG_4589" width="170" style="padding: 5px;"/>
-<img src="https://github.com/CippoX/AniMem-Demo/assets/62521219/1f6541cc-5b54-47d4-aa9a-08d86330a898" alt="IMG_4590" width="170" style="padding: 5px;"/>
-<img src="https://github.com/CippoX/AniMem-Demo/assets/62521219/96d6226d-6cb8-49aa-b326-cf48cd247fc5" alt="IMG_4591" width="170" style="padding: 5px;"/>
-<img src="https://github.com/CippoX/AniMem-Demo/assets/62521219/28ad1a16-42e4-4a8b-8dac-59dce681eaaf" alt="IMG_4620" width="170" style="padding: 5px;" />
-
+<img src="https://github.com/CippoX/AniMem-Demo/assets/62521219/d94d4b7a-76b5-4eca-8294-9ef51d53e893" alt="IMG_4589" width="160" style="padding: 5px;"/>
+<img src="https://github.com/CippoX/AniMem-Demo/assets/62521219/a8332c22-9484-4a34-9c67-70d385ac01da" alt="IMG_4590" width="160" style="padding: 5px;"/>
+<img src="https://github.com/CippoX/AniMem-Demo/assets/62521219/ffae21ac-f156-4ddb-a19d-340fac2e4a7e" alt="IMG_4591" width="160" style="padding: 5px;"/>
+<img src="https://github.com/CippoX/AniMem-Demo/assets/62521219/cf7c66c9-47fb-4a27-9f7d-9c290f652ed2" alt="IMG_4620" width="160" style="padding: 5px;"/>
+<img src="https://github.com/CippoX/AniMem-Demo/assets/62521219/31642522-f16f-404d-8afa-7574311f2bf0" alt="IMG_4620" width="160" style="padding: 5px;"/>
