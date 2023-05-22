@@ -13,3 +13,4 @@ AniMem is an innovative and feature-rich anime application designed to provide a
 <img src="https://github.com/CippoX/AniMem-Demo/assets/62521219/ffae21ac-f156-4ddb-a19d-340fac2e4a7e" alt="IMG_4591" width="160" style="padding: 5px;"/>
 <img src="https://github.com/CippoX/AniMem-Demo/assets/62521219/cf7c66c9-47fb-4a27-9f7d-9c290f652ed2" alt="IMG_4620" width="160" style="padding: 5px;"/>
 <img src="https://github.com/CippoX/AniMem-Demo/assets/62521219/31642522-f16f-404d-8afa-7574311f2bf0" alt="IMG_4620" width="160" style="padding: 5px;"/>
+<img src="https://github.com/CippoX/AniMem-Demo/assets/62521219/9c4ddc41-f813-456f-b078-6128596ca680" alt="IMG_4620" width="160" style="padding: 5px;"/>
